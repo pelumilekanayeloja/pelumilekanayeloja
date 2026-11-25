@@ -6,7 +6,7 @@ cyber security. Open to entry-level roles across the field.
 - **Focus:** network security, risk assessment, incident response
 - **Background:** 3+ years in security operations — CCTV and alarm monitoring,
   access control, incident reporting, site risk assessment
-- **Training:** Cyber Security Level 3, IBM SkillsBuild Cyber
+- **Training:** NCFE Cyber Security Level 3, IBM SkillsBuild Cyber
   Security Certificate
 - **Practice:** home lab (Kali Linux, Ubuntu, Windows, Metasploit), TryHackMe,
   Hack The Box
